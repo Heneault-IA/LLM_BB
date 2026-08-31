@@ -1,0 +1,62 @@
+[
+  {
+    "chunk_id": 1,
+    "enhanced_content": "JETS À RÉSULTAT REQUIS\n\n• On doit toujours accepter le second résultat, même s’il est pire que le premier ; on ne peut jamais relancer une relance.\n\n• Si une règle vous permet de relancer plusieurs dés, alors vous devez tous les relancer ensemble. Vous ne pouvez pas en relancer certains, attendre le résultat, puis décider si vous voulez relancer les autres.\n\nSouvent, lorsqu’on fait un jet de dé, les règles demandent d’obtenir un certain nombre suivi d’un +. Il s’agit d’un résultat requis, qui indique le score minimum nécessaire pour réussir dans une situation donnée. Par exemple, si une règle vous demande d’obtenir un 3+, alors tout jet de 3, 4, 5 ou 6 sera une réussite.",
+    "metadata": {
+      "original_content": {
+        "raw_text": "JETS À RÉSULTAT REQUIS\n\n• On doit toujours accepter le second résultat, même s’il est pire que le premier ; on ne peut jamais relancer une relance.\n\n• Si une règle vous permet de relancer plusieurs dés, alors vous devez tous les relancer ensemble. Vous ne pouvez pas en relancer certains, attendre le résultat, puis décider si vous voulez relancer les autres.\n\nSouvent, lorsqu’on fait un jet de dé, les règles demandent d’obtenir un certain nombre suivi d’un +. Il s’agit d’un résultat requis, qui indique le score minimum nécessaire pour réussir dans une situation donnée. Par exemple, si une règle vous demande d’obtenir un 3+, alors tout jet de 3, 4, 5 ou 6 sera une réussite.",
+        "tables_html": [],
+        "images_base64": [],
+        "thinking": null
+      }
+    }
+  },
+  {
+    "chunk_id": 2,
+    "enhanced_content": "Dans le cas du Mouvement et de la Force, réduisez simplement de 1 la valeur.\n\nLes Caractéristiques représentées par un résultat requis sont affectées un peu différemment. Pour la Capacité de Passe et l’Agilité, augmentez de 1 le nombre devant le symbole+, pour rendre le test concerné plus difficile à réussir. Pour l’Armure, réduisez de 1 le nombre devant le+, pour rendre un Jet d’Armure contre le joueur affecté plus facile pour le Coach adverse.\n\nSi on ne peut pas appliquer la réduction de Caractéristique obtenue, par exemple si la Caractéristique ne peut pas être plus mauvaise qu’elle ne l’est, alors n’appliquez pas la réduction de Caractéristique et traitez le résultat comme Rate le Prochain Match à la plac ;: Nuffle estime manifestement que ce joueur a assez souffert !",
+    "metadata": {
+      "original_content": {
+        "raw_text": "Dans le cas du Mouvement et de la Force, réduisez simplement de 1 la valeur.\n\nLes Caractéristiques représentées par un résultat requis sont affectées un peu différemment. Pour la Capacité de Passe et l’Agilité, augmentez de 1 le nombre devant le symbole+, pour rendre le test concerné plus difficile à réussir. Pour l’Armure, réduisez de 1 le nombre devant le+, pour rendre un Jet d’Armure contre le joueur affecté plus facile pour le Coach adverse.\n\nSi on ne peut pas appliquer la réduction de Caractéristique obtenue, par exemple si la Caractéristique ne peut pas être plus mauvaise qu’elle ne l’est, alors n’appliquez pas la réduction de Caractéristique et traitez le résultat comme Rate le Prochain Match à la plac ;: Nuffle estime manifestement que ce joueur a assez souffert !",
+        "tables_html": [],
+        "images_base64": [],
+        "thinking": null
+      }
+    }
+  },
+  {
+    "chunk_id": 3,
+    "enhanced_content": "CHOISIR ET APPLIQUER LE RÉSULTAT\n\nPOUSSÉES À LA CHAÎNE\n\nQuand on fait une Action de Blocage, c’est toujours le Coach du joueur qui effectue l’Action de Blocage qui jette les Dés de Blocage. Toutefois, le Coach qui décide du résultat à appliquer dépend de la Caractéristique de Force de chaque joueur comme décrit plus tôt. Si on ne jette qu’un seul Dé de Blocage, alors il faut utiliser son résultat. Si on jette plusieurs Dés de Blocage, c’est toujours le Coach du joueur le plus fort qui choisit le résultat.\n\nS’il n’y a pas de case inoccupée sur laquelle déplacer un joueur Repoussé, alors il est Repoussé sur une case contenant un autre joueur, ce qui cause une Poussée à la Chaîne. Le joueur originellement Repoussé sera Poussé normalement, et le joueur qui occupe la case sur laquelle le joueur Repoussé originel a été Poussé est lui-même Repoussé comme s’il avait été Repoussé par le joueur qui occupe à présent sa case. Quand une Poussée à la Chaîne se produit, le Coach du joueur qui effectuait l’Action de Blocage d’origine choisit la direction de toutes les Poussées de la Poussée à la Chaîne. Un joueur peut être Poussé à la Chaîne même s’il est À Terre ou Sonné.",
+    "metadata": {
+      "original_content": {
+        "raw_text": "CHOISIR ET APPLIQUER LE RÉSULTAT\n\nPOUSSÉES À LA CHAÎNE\n\nQuand on fait une Action de Blocage, c’est toujours le Coach du joueur qui effectue l’Action de Blocage qui jette les Dés de Blocage. Toutefois, le Coach qui décide du résultat à appliquer dépend de la Caractéristique de Force de chaque joueur comme décrit plus tôt. Si on ne jette qu’un seul Dé de Blocage, alors il faut utiliser son résultat. Si on jette plusieurs Dés de Blocage, c’est toujours le Coach du joueur le plus fort qui choisit le résultat.\n\nS’il n’y a pas de case inoccupée sur laquelle déplacer un joueur Repoussé, alors il est Repoussé sur une case contenant un autre joueur, ce qui cause une Poussée à la Chaîne. Le joueur originellement Repoussé sera Poussé normalement, et le joueur qui occupe la case sur laquelle le joueur Repoussé originel a été Poussé est lui-même Repoussé comme s’il avait été Repoussé par le joueur qui occupe à présent sa case. Quand une Poussée à la Chaîne se produit, le Coach du joueur qui effectuait l’Action de Blocage d’origine choisit la direction de toutes les Poussées de la Poussée à la Chaîne. Un joueur peut être Poussé à la Chaîne même s’il est À Terre ou Sonné.",
+        "tables_html": [],
+        "images_base64": [],
+        "thinking": null
+      }
+    }
+  },
+  {
+    "chunk_id": 4,
+    "enhanced_content": "NERFS D’ACIER\n\nActive\n\nCe joueur peut ignorer certains ou tous les modificateurs pour être Marqué quand il fait un Test d’Agilité pour Réceptionner le ballon, ou quand il fait un Test de Capacité de Passe pour Passer le ballon.\n\nDe plus, pendant la Séquence de Début de Phase, après que le Coup d’Envoi a Dévié mais avant de faire le jet d’Événement de Coup d’Envoi, un seul joueur Démarqué de l’équipe qui réceptionne et ayant cette Compétence peut se déplacer de jusqu’à 3 cases, selon toutes les règles normales pour une Action de Mouvement, à l’exception du fait qu’il ne peut pas Foncer. Un joueur ne peut pas utiliser cette Compétence si un Renvoi s’ensuit, et il ne peut pas se déplacer dans la moitié de terrain adverse. Si ce joueur Chute pendant ce mouvement, alors son mouvement prend immédiatement fin et on fait le jet de l’Événement du Coup d’Envoi.",
+    "metadata": {
+      "original_content": {
+        "raw_text": "NERFS D’ACIER\n\nActive\n\nCe joueur peut ignorer certains ou tous les modificateurs pour être Marqué quand il fait un Test d’Agilité pour Réceptionner le ballon, ou quand il fait un Test de Capacité de Passe pour Passer le ballon.\n\nDe plus, pendant la Séquence de Début de Phase, après que le Coup d’Envoi a Dévié mais avant de faire le jet d’Événement de Coup d’Envoi, un seul joueur Démarqué de l’équipe qui réceptionne et ayant cette Compétence peut se déplacer de jusqu’à 3 cases, selon toutes les règles normales pour une Action de Mouvement, à l’exception du fait qu’il ne peut pas Foncer. Un joueur ne peut pas utiliser cette Compétence si un Renvoi s’ensuit, et il ne peut pas se déplacer dans la moitié de terrain adverse. Si ce joueur Chute pendant ce mouvement, alors son mouvement prend immédiatement fin et on fait le jet de l’Événement du Coup d’Envoi.",
+        "tables_html": [],
+        "images_base64": [],
+        "thinking": null
+      }
+    }
+  },
+  {
+    "chunk_id": 5,
+    "enhanced_content": "ÊTRE EXPULSÉ\n\nQuelle que soit l’issue, si lors d’une Action d’Agression, on obtient un double naturel sur le Jet d’Armure ou le Jet de Blessure, alors le joueur qui effectue l’Action d’Agression est Expulsé après avoir résolu l’Action d’Agression. Le joueur Expulsé est immédiatement retiré du terrain et ne participe plus au match. Quand un joueur de l’équipe active est Expulsé, un Turnover s’ensuit.\n\nEn continuant notre exemple, le Blitzer Orque fait un Jet d’Armure pour le Trois-quart Humain qu’il agresse, et obtient un 6 et un 3, ce qui pénètre son armure. Puis il fait un Jet de Blessure et obtient un double 2, provoquant l’Expulsion du Blitzer des Orques, tandis que le Trois- quart Humain devient Sonné. Le Coach des Orques tente de Contester la Décision et obtient un 1, ce qui signifie que non seulement le Blitzer Orque est quand même Expulsé mais aussi que le Coach ne peut plus Contester la Décision pour le restant du match !",
+    "metadata": {
+      "original_content": {
+        "raw_text": "ÊTRE EXPULSÉ\n\nQuelle que soit l’issue, si lors d’une Action d’Agression, on obtient un double naturel sur le Jet d’Armure ou le Jet de Blessure, alors le joueur qui effectue l’Action d’Agression est Expulsé après avoir résolu l’Action d’Agression. Le joueur Expulsé est immédiatement retiré du terrain et ne participe plus au match. Quand un joueur de l’équipe active est Expulsé, un Turnover s’ensuit.\n\nEn continuant notre exemple, le Blitzer Orque fait un Jet d’Armure pour le Trois-quart Humain qu’il agresse, et obtient un 6 et un 3, ce qui pénètre son armure. Puis il fait un Jet de Blessure et obtient un double 2, provoquant l’Expulsion du Blitzer des Orques, tandis que le Trois- quart Humain devient Sonné. Le Coach des Orques tente de Contester la Décision et obtient un 1, ce qui signifie que non seulement le Blitzer Orque est quand même Expulsé mais aussi que le Coach ne peut plus Contester la Décision pour le restant du match !",
+        "tables_html": [],
+        "images_base64": [],
+        "thinking": null
+      }
+    }
+  }
+]

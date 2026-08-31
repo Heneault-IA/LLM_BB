@@ -12,3 +12,6 @@ wheels/
 # ignore db
 db/
 dbv2/
+
+# ignore data
+data/

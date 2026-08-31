@@ -50,12 +50,12 @@ Génération de la réponse par un LLM local (Ollama)
 
 ## Installation
 
+Le projet utilise [`uv`](https://docs.astral.sh/uv/) pour la gestion des dépendances.
+
 ```bash
 git clone <url-du-repo>
 cd LLM_BB
-python -m venv .venv
-.venv\Scripts\activate   # ou source .venv/bin/activate sous Linux/Mac
-pip install -r requirements.txt
+uv sync
 ```
 
 Il faut également [installer Ollama](https://ollama.com/download) et récupérer les modèles utilisés :

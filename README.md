@@ -2,7 +2,7 @@
 
 Un assistant qui répond à des questions de règles de Blood Bowl en s'appuyant uniquement sur le PDF officiel du règlement, via un pipeline RAG (Retrieval-Augmented Generation) 100% local.
 
-Projet personnel, inspiré des vidéos de [Harish Neel](https://www.youtube.com/@harishneel1).
+Projet personnel, inspiré des vidéos de [Harish Neel](https://www.youtube.com/@harish_neel).
 
 ## Pourquoi ce projet
 
